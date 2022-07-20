@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a developer who likes to express my imagination on a computer. I'm a junior in Yeungnam University in South Korea.
 ## 💻 Skills
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
