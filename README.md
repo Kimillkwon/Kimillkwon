@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 <br>
-![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)
+![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 <!--
 **Kimillkwon/Kimillkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
