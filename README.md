@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 💻 STACK
+## 💻 Skills
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 <br>
