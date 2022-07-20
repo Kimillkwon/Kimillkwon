@@ -1,14 +1,16 @@
 ### Hi there 👋
 ## 💻 STACK
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
+![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <br>
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
