@@ -1,4 +1,4 @@
-### Hi there 👋 I am a developer who likes to express my imagination on a computer. I'm a junior in Yeungnam University in South Korea.
+### Hi there 👋 I am a developer who likes to express my imagination on a computer. I'm a junior in Yeungnam University in South Korea. And I majored in Computer Science. I am interested in A.I, so I have participated in various contests related in A.I and also have awards. I often feel the lack of design part while working on projects, so I am currently interested in UI and UX.
 ## 💻 Skills
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
