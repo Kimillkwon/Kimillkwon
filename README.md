@@ -14,6 +14,9 @@
 <br><br>
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<br><br>
+![](https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <!--
 **Kimillkwon/Kimillkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
